@@ -23,4 +23,4 @@ Features:
 4) Time and Space complexity of algorithm being visualized.
 
 
-DEVELOPED BY RAHUL BISHNOI
+DEVELOPED BY Manoj Yadav
